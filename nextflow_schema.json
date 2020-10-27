@@ -1,5 +1,5 @@
 {
-    "$schema": "https://json-schema.org/draft-07/schema",
+    "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/nf-core/denovohybrid/master/nextflow_schema.json",
     "title": "nf-core/denovohybrid pipeline parameters",
     "description": "De novo hybrid assembly pipeline.",
@@ -101,7 +101,7 @@
                         "link",
                         "copy",
                         "copyNoFollow",
-                        "mov"
+                        "move"
                     ]
                 },
                 "name": {

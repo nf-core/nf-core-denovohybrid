@@ -54,4 +54,4 @@ These tests are run both with the latest available version of `Nextflow` and als
 
 ## Getting help
 
-For further information/help, please consult the [nf-core/denovohybrid documentation](https://nf-co.re/denovohybrid/docs) and don't hesitate to get in touch on the nf-core Slack [#denovohybrid](https://nfcore.slack.com/channels/denovohybrid) channel ([join our Slack here](https://nf-co.re/join/slack)).
+For further information/help, please consult the [nf-core/denovohybrid documentation](https://nf-co.re/denovohybrid/usage) and don't hesitate to get in touch on the nf-core Slack [#denovohybrid](https://nfcore.slack.com/channels/denovohybrid) channel ([join our Slack here](https://nf-co.re/join/slack)).

@@ -1,4 +1,4 @@
-FROM nfcore/base:1.13.1
+FROM nfcore/base:1.13.2
 LABEL authors="Caspar Gross" \
       description="Docker image containing all software requirements for the nf-core/denovohybrid pipeline"
 

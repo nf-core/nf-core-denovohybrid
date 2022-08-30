@@ -6,7 +6,6 @@
                                         `._,._,'
   nf-core/denovohybrid v${version}
 ----------------------------------------------------
-
 Run Name: $runName
 
 <% if (success){

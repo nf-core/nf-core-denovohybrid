@@ -4,7 +4,7 @@
     nf-core/denovohybrid
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
     Github : https://github.com/nf-core/denovohybrid
-    Website: https://nf-co.re/denovohybrid
+Website: https://nf-co.re/denovohybrid
     Slack  : https://nfcore.slack.com/channels/denovohybrid
 ----------------------------------------------------------------------------------------
 */
